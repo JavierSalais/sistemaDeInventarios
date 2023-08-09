@@ -14,7 +14,7 @@ JSP y JSTL: Se utilizarán JSP (JavaServer Pages) y JSTL (JSP Standard Tag Libra
 Servlets: Los servlets actuarán como controladores y recibirán las solicitudes de los usuarios desde las vistas. Coordinarán las operaciones necesarias y redirigirán a las páginas JSP correspondientes.
 
   ## Capa de Modelo:
-Enterprise JavaBeans (EJBs): Los EJBs se utilizarán para implementar la lógica de negocio y la manipulación de datos. Gestionarán las operaciones de manejo de inventario, cálculos de existencias, alertas y generación de reportes.
+Enterprise JavaBeans (EJBs): Los EJBs se utilizarán para implementar la lógica de negocio y la manipulación de datos. Gestionarán las operaciones de manejo de inventario, cálculos de existencias, alertas y generación de reportes.  <br>
 Java Persistence API (JPA): Se utilizará JPA para interactuar con la base de datos. Las entidades (productos, entradas, salidas, etc.) se mapearán a tablas en la base de datos.
 
   ## Capa de Persistencia de Datos:
@@ -28,15 +28,15 @@ Base de Datos (MySQL o PostgreSQL): Se empleará un DBMS para almacenar y admini
 
   ## Dependencias:
 Java EE: Proporciona las especificaciones y APIs necesarias para el desarrollo de aplicaciones empresariales en Java. <br>
-JSP y JSTL: Tecnologías para la creación de vistas web dinámicas.
-Servlets: Componentes Java para manejar las solicitudes HTTP y coordinar la lógica de control.
-Enterprise JavaBeans (EJBs): Componentes para la lógica de negocio y transacciones.
-Java Persistence API (JPA): API para el manejo de la capa de persistencia.
-MySQL o PostgreSQL: DBMS para el almacenamiento de datos.
-Apache NetBeans: IDE para el desarrollo de aplicaciones Java EE.
-Apache Tomcat: Servidores de aplicaciones compatibles con Java EE.
-Apache o Nginx: Servidores web para servir contenido estático y manejar solicitudes HTTP.
-GitHub: Repositorios de código para el control de versiones.
+JSP y JSTL: Tecnologías para la creación de vistas web dinámicas.  <br>
+Servlets: Componentes Java para manejar las solicitudes HTTP y coordinar la lógica de control.  <br>
+Enterprise JavaBeans (EJBs): Componentes para la lógica de negocio y transacciones.  <br>
+Java Persistence API (JPA): API para el manejo de la capa de persistencia.  <br>
+MySQL o PostgreSQL: DBMS para el almacenamiento de datos.  <br>
+Apache NetBeans: IDE para el desarrollo de aplicaciones Java EE.  <br>
+Apache Tomcat: Servidores de aplicaciones compatibles con Java EE.  <br>
+Apache o Nginx: Servidores web para servir contenido estático y manejar solicitudes HTTP.  <br>
+GitHub: Repositorios de código para el control de versiones.  <br>
 
 ### Esta arquitectura sigue el patrón de diseño Modelo-Vista-Controlador (MVC) y aprovecha las capacidades de Java EE y Apache NetBeans para desarrollar el sistema de manejo de inventarios de manera modular y escalable.
   
