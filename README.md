@@ -15,7 +15,7 @@ Servlets: Los servlets actuarán como controladores y recibirán las solicitudes
 
   ## Capa de Modelo:
 Enterprise JavaBeans (EJBs): Los EJBs se utilizarán para implementar la lógica de negocio y la manipulación de datos. Gestionarán las operaciones de manejo de inventario, cálculos de existencias, alertas y generación de reportes.  <br>
-Java Persistence API (JPA): Se utilizará JPA para interactuar con la base de datos. Las entidades (productos, entradas, salidas, etc.) se mapearán a tablas en la base de datos.
+Java Persistence API (JPA): Se utilizará JPA para interactuar con la base de datos. Las entidades (productos, entradas, salidas, etc.) se mapearán a tablas en la base de datos. <br>
 
   ## Capa de Persistencia de Datos:
 Base de Datos (MySQL o PostgreSQL): Se empleará un DBMS para almacenar y administrar los datos del inventario.
