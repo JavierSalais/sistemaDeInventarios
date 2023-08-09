@@ -21,10 +21,10 @@ Java Persistence API (JPA): Se utilizará JPA para interactuar con la base de da
 Base de Datos (MySQL o PostgreSQL): Se empleará un DBMS para almacenar y administrar los datos del inventario.
 
   ## Otros Componentes:
-Servidor de Aplicación (Apache Tomcat): Alojará y ejecutará la lógica de negocio y los EJBs.
-Servidor Web (Apache o Nginx): Servirá las páginas JSP y gestionará las solicitudes HTTP.
-IDE Apache NetBeans: Se utilizará como entorno de desarrollo para escribir, compilar y depurar el código.
-Repositorio de Código (GitHub): Alojará el código fuente del proyecto y facilitará el control de versiones.
+-Servidor de Aplicación (Apache Tomcat): Alojará y ejecutará la lógica de negocio y los EJBs.
+-Servidor Web (Apache o Nginx): Servirá las páginas JSP y gestionará las solicitudes HTTP.
+-IDE Apache NetBeans: Se utilizará como entorno de desarrollo para escribir, compilar y depurar el código.
+-Repositorio de Código (GitHub): Alojará el código fuente del proyecto y facilitará el control de versiones.
 
   ## Dependencias:
 Java EE: Proporciona las especificaciones y APIs necesarias para el desarrollo de aplicaciones empresariales en Java.
