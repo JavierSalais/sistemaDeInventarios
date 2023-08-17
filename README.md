@@ -280,8 +280,8 @@ Versión 2.3: Seguridad y Acceso
 Autenticación Multifactor (MFA):
 - Implementación de autenticación multifactor para mejorar la seguridad de las cuentas de usuario.
 
-Gestión Avanzada de Permisos:
--Ampliación de las opciones de asignación de roles y permisos para usuarios.
--Personalización de los niveles de acceso a las funcionalidades.
+Gestión Avanzada de Permisos:<br>
+-Ampliación de las opciones de asignación de roles y permisos para usuarios.<br>
+-Personalización de los niveles de acceso a las funcionalidades.<br>
 
 
