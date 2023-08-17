@@ -27,6 +27,7 @@ Para abordar los desafíos de gestión de inventarios, se ha desarrollado un Sis
 
 # 4. Arquitectura:
 La aplicación se basa en Java EE y se desarrolla en el IDE Apache NetBeans. Se despliega en el servidor web Apache Tomcat para el acceso a través de un navegador web. La arquitectura sigue un modelo cliente-servidor, donde el servidor de aplicación Java EE maneja la lógica de negocio y la comunicación con la base de datos MySQL para el almacenamiento de datos críticos.
+![image](https://github.com/JavierSalais/sistemaDeInventarios/assets/88549083/c27187a1-4263-47f0-8424-dff3791a99c8)
 
   # Ejecución del Proyecto:
   ## Capa de Presentación (Vista):
