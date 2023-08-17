@@ -1,5 +1,5 @@
 # Sistema de Inventarios 
-El siguiente proyecto trata sobre un sistema de inventarios para restaurante
+El siguiente proyecto trata sobre un sistema de inventarios para restaurante.
 
 ## Tabla de Contenidos (ToC):
 
