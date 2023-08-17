@@ -140,6 +140,8 @@ Visualización de Información:<br>
 
 ## Usuario Final:
 ### Nota: El acceso a estas funciones estará sujeto a los permisos otorgados por el administrador. <br>
+## Usuario Administrador:
+### Nota: Como administrador, tendrás acceso a todas las funciones y capacidades de la aplicación.<br>
 
 ## 1) Inicio de Sesión:
 - Abre un navegador web y accede a la URL proporcionada. <br>
@@ -159,9 +161,6 @@ Visualización de Información:<br>
 ## 5) Generación de Informes:
 - Dirígete a la sección de informes para generar informes detallados de stock y transacciones.<br>
 - Personaliza los informes según tus necesidades y descárgalos en formato PDF o CSV.<br>
-
-## Usuario Administrador:
-### Nota: Como administrador, tendrás acceso a todas las funciones y capacidades de la aplicación.<br>
 
 ## 6) Gestión de Usuarios:
 - Accede a la sección de administración de usuarios.<br>
