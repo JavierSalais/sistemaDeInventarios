@@ -207,7 +207,46 @@ Visualización de Información:<br>
 # 10. Contribuciones y Desarrollo  
 
 ## Contribuciones
+Pasos para Contribuir:
 
+## Clonar el Repositorio:
+
+1. Haz un fork del repositorio desde la página principal.<br>
+2. Clona tu fork en tu máquina local usando git clone.<br>
+
+Crear un Nuevo Branch:
+- Crea un nuevo branch en tu repositorio local usando git checkout -b nombre-del-branch.<br>
+
+Desarrollo y Modificaciones:
+- Realiza las modificaciones y desarrollos necesarios en tu nuevo branch.<br>
+
+Agrega y Confirma Cambios:
+- Agrega tus cambios usando git add.<br>
+- Confirma tus cambios usando git commit -m "Descripción corta de los cambios".<br>
+
+Sincronización con el Repositorio Original (Opcional):
+- Si el repositorio original ha recibido cambios mientras trabajabas en tu branch, sincroniza tu fork con el repositorio original mediante git pull upstream main.<br>
+
+Envío de un Pull Request:
+- Sube tus cambios a tu fork en GitHub usando git push origin nombre-del-branch.<br>
+- En la página de tu fork, selecciona "Compare & pull request" para crear un nuevo pull request.<br>
+
+Creación de Pull Request:
+- Asigna un título descriptivo y una descripción detallada al pull request.<br>
+- Proporciona contexto sobre los cambios realizados y su propósito.<br>
+
+Revisión y Comentarios:
+- Los colaboradores y mantenedores del repositorio revisarán tu pull request.<br>
+- Es posible que se realicen comentarios, sugerencias y cambios.<br>
+
+Realizar Ajustes (si es necesario):
+- Realiza los ajustes solicitados en tu branch local y realiza nuevos commits.<br>
+
+Aprobación y Fusión:
+- Una vez que tu pull request sea aprobado, un mantenedor del repositorio lo fusionará en el branch principal.<br>
+
+Actualización de tu Fork:
+- Si tu pull request fue fusionado en el repositorio original, asegúrate de actualizar tu fork local con los cambios usando git pull upstream main.<br>
 
 ## Roadmap para proximos Desarrollos:
 Versión 2.0: Mejoras en la Experiencia del Usuario (UX/UI)
